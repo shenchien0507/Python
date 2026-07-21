@@ -1,0 +1,5 @@
+# 更新同步至github
+git status # 檢查目前 Git 狀態
+git add . # 把目前所有修改加入暫存區（Stage），如果單獨檔案把" ."換成檔案名稱
+git commit -m "訊息修改" # 建立一個新的版本(Commit) " "中間文字是訊息，隨版本修改
+git push # 把本機的 Commit 上傳到 GitHub
